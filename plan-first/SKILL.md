@@ -1,6 +1,6 @@
 ---
 name: plan-first
-description: Turn a big fuzzy idea into a small written plan you approve before Claude touches a single file, so you ship a v1 instead of stalling on version five. Forces a hard scope cut, a "not in v1" list, the order of moves, and a plain-English definition of done — saved as a plan file you can reopen any night. Use when the user says "I want to build X", "help me plan this", "where do I start", "I have an idea", "plan this out first", "I don't know what to build first", "scope this down", "this is getting too big", "plan first", or types /plan-first.
+description: Turn a big fuzzy idea into a small written plan you approve before Claude touches a single file, so you ship a v1 instead of stalling on version five. Forces a hard scope cut, a "not in v1" list, the order of moves, and a plain-English definition of done — saved as a plan file you can reopen any night. Use when the user says "I want to build X", "help me plan this", "I have an idea", "plan this out first", "scope this down", "this is getting too big", "how do I break this up", "plan first", or types /plan-first. If they haven't picked a project at all yet, that's **claude-orientation**, not this skill.
 ---
 
 # Plan First — decide what you're building before anything gets built

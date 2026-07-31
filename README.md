@@ -8,6 +8,14 @@ No API keys. No installs. No scripts to run. If you have Claude Code, these work
 
 > **Want to actually learn Claude Code?** Join the [Claude Code Club](https://www.skool.com/claudecodeclub) — learn Claude Code plus all my resources, for just $9.
 
+## Is this the right repo for you?
+
+**Yes, if you're new.** Everything here runs the moment you drop the folder in. No API keys, no installs, no accounts to wire up. These skills teach you Claude Code, get your first things built and live, and help you tell people about them.
+
+**You'll want [profit-room-skills](https://github.com/duncan-buildroom/profit-room-skills) once you're past that.** That's the heavier set — full content pipelines, video and thumbnail generation, carousel rendering, publishing automations, site builders. Those skills do more, but they need API keys, connected tools, and a bit of setup. Start here, go there when the simple version stops being enough.
+
+Some skills appear in both. Same skill, no catch.
+
 ## Start here
 
 Run [`personalize`](./personalize) first. It asks you a few questions about your name, niche, offer, and audience, then saves the answers to `~/.claude/brand-profile.md`.
