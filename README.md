@@ -1,6 +1,6 @@
 # Free Skills
 
-50 free Claude Code skills for beginners.
+55 free Claude Code skills for beginners.
 
 Each skill lives in its own folder. Grab the one you want, drop it into your Claude Code skills directory, and start using it. That's the whole setup.
 
@@ -24,7 +24,7 @@ A lot of these skills read that file. That's how they write in your voice, for y
 
 Then run [`claude-orientation`](./claude-orientation) to pick your first build and write down tonight's next move.
 
-## The 50 skills
+## The 55 skills
 
 ### Setup
 
@@ -100,6 +100,9 @@ Things Claude Code is quietly great at, before you build anything.
 | [`offer-builder`](./offer-builder) | Builds a Grand Slam Offer using the Value Equation — stacked deliverables, a name, a guarantee, a one-line pitch. |
 | [`positioning-filter`](./positioning-filter) | Finds the one angle that makes you different, so you stop sounding like everyone else in your niche. |
 | [`pricing-calculator`](./pricing-calculator) | Prices your offer on the outcome the buyer gets, not on your hours. Three tiers and the value story. |
+| [`repeatable-offer`](./repeatable-offer) | Finds the repeatable 80% of your custom work and wraps it in a fixed name, scope, price, and delivery checklist. |
+| [`first-product`](./first-product) | Interviews you on what you know and writes a complete, sellable digital guide plus the storefront listing copy. |
+| [`more-from-buyers`](./more-from-buyers) | Finds 3 to 5 ways to make more from the customers you already have, ranked by effort. |
 
 ### Get customers
 
@@ -109,6 +112,7 @@ Things Claude Code is quietly great at, before you build anything.
 | [`dm-writer`](./dm-writer) | One short, human DM to one specific person for one specific reason. |
 | [`first-customer-closer`](./first-customer-closer) | Turns "someone's interested and I don't know what to say" into a calm script. For people who hate selling. |
 | [`objection-handler`](./objection-handler) | Honest answers to "too expensive", "no time", and "let me think about it" — without freezing. |
+| [`proposal-writer`](./proposal-writer) | Turns messy notes from one real conversation into a clean, ready-to-send proposal with a price table. |
 
 ### Tell people what you built
 
@@ -122,6 +126,7 @@ Shipping is half the job. This is the other half.
 | [`bio-writer`](./bio-writer) | Your profile bio for each platform, in the right length. Makes the right person stay. |
 | [`case-study`](./case-study) | Turns one win into something you can send a prospect. Never invents numbers. |
 | [`testimonial-ask`](./testimonial-ask) | The ask, sent at the right moment, with the three questions that produce a usable quote. |
+| [`launch-plan`](./launch-plan) | Picks the right launch type for your stage and builds a dated, day-by-day plan with an asset checklist. |
 | [`content-prompt`](./content-prompt) | One question worth answering on camera, plus five hooks and text overlays. |
 | [`daily-post-ideas`](./daily-post-ideas) | Five LinkedIn post ideas, each with a ready-to-paste hook line. |
 | [`hooks`](./hooks) | YouTube hooks using the Kallaway desire framework, each one scored. |
@@ -191,7 +196,7 @@ git clone https://github.com/duncan-buildroom/freeskills.git
 cp -r freeskills/personalize ~/.claude/skills/
 ```
 
-**Option B — install all 50 at once**
+**Option B — install all 55 at once**
 
 ```bash
 git clone https://github.com/duncan-buildroom/freeskills.git
@@ -207,7 +212,7 @@ Click the green **Code** button on the [repo page](https://github.com/duncan-bui
 
 Once you've used a few of these, run [`skill-starter`](./skill-starter). It turns a job you keep repeating into your own skill, saved to your machine and invoked with a slash command.
 
-That's the real point of this repo. These 50 are a starting set. The ones you build for yourself are the ones you'll use every day.
+That's the real point of this repo. These 55 are a starting set. The ones you build for yourself are the ones you'll use every day.
 
 ## License
 
